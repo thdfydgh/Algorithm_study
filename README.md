@@ -84,8 +84,9 @@
 - **16주차:** 그래프
 
 ## 참고 자료 가이드라인
-https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%B4%EC%8D%AC?srsltid=AfmBOop6y8RJaBzZDsDASdHspVpdSKxiT8AuCCctP4E7nRYGmyMfiz74
+[인프런 두잇-알고리즘-코딩테스트 무료 강의](https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%B4%EC%8D%AC?srsltid=AfmBOop6y8RJaBzZDsDASdHspVpdSKxiT8AuCCctP4E7nRYGmyMfiz74)
 
+: 주소가 안들어가집니다. 카톡에 참고자료 링크 첨부해드렸습니다.
 
 
 ### **5주차: 리스트, 스택**
